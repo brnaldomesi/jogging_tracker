@@ -38,7 +38,7 @@
     "react": "^15.6.1",
     "react-confirm": "^0.1.16",
     "react-datetime": "^2.10.1",
-    "react-dev-utils": "^4.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^15.6.1",
     "react-icons": "^2.2.5",
     "react-redux": "^5.0.6",
